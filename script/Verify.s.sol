@@ -2,7 +2,7 @@ pragma solidity ^0.8.17;
 
 import "forge-std/Script.sol";
 import "../circuits/contract/with_foundry/plonk_vk.sol";
-import "../contract/Starter.sol";
+import "../src/Starter.sol";
 
 contract VerifyScript is Script {
     Starter public starter;
