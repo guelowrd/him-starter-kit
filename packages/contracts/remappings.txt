@@ -1,0 +1,4 @@
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+semaphore/=contracts/lib/semaphore/packages/contracts/contracts
+@semaphore/=contracts/lib/semaphore/packages/contracts/contracts

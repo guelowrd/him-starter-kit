@@ -1,5 +1,14 @@
 {
-  "dependencies": {
-    "ethers": "^6.9.2"
-  }
+  "name": "him-starter-kit",
+  "version": "1.0.0",
+  "description": "All the best cryptography tools for hidden information bootstrapped and ready to go!",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
 }
